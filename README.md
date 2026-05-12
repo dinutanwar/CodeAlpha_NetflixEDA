@@ -61,7 +61,6 @@ CodeAlpha_NetflixEDA/
 
 # 👨‍💻 Author
 
-<div align="center">
 
 ## Dinesh Tanwar  
 🎓 BCA (AI & ML) Student  
