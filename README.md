@@ -16,11 +16,12 @@
 This project performs **Exploratory Data Analysis (EDA)** on the Netflix Movies & TV Shows dataset using Python.
 
 The project focuses on:
-- 📈 Trend Analysis
-- 🌍 Country-wise Content Distribution
-- ⭐ Ratings Analysis
-- 🎬 Movies vs TV Shows Comparison
-- 📅 Release Year Trends
+
+- 📈 Trend Analysis  
+- 🌍 Country-wise Content Distribution  
+- ⭐ Ratings Analysis  
+- 🎬 Movies vs TV Shows Comparison  
+- 📅 Release Year Trends  
 
 This project was completed as part of the Data Analytics Internship offered by [CodeAlpha](https://www.codealpha.tech?utm_source=chatgpt.com).
 
@@ -58,6 +59,37 @@ CodeAlpha_NetflixEDA/
 ├── cleaned_netflix_data.csv
 ├── README.md
 └── screenshots/
+```
+
+---
+
+# 📸 Screenshots
+
+## 📂 Dataset Preview
+
+<!-- Add Dataset Screenshot Below -->
+
+<p align="center">
+  <img src="screenshots/dataset.png" width="850">
+</p>
+
+---
+
+## 📈 Graph Visualization
+
+<!-- Add Graph Screenshot Below -->
+
+<p align="center">
+  <img src="screenshots/graphs.png" width="850">
+</p>
+
+---
+
+## 📊 EDA Output
+
+
+
+---
 
 # 👨‍💻 Author
 
@@ -67,4 +99,9 @@ CodeAlpha_NetflixEDA/
 📊 Data Analytics Enthusiast  
 🐍 Python Developer  
 
-</div>
+
+---
+
+# ⭐ Acknowledgement
+
+Special thanks to [CodeAlpha](https://www.codealpha.tech?utm_source=chatgpt.com) for providing this internship opportunity and practical learning experience.
