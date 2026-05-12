@@ -66,8 +66,10 @@ CodeAlpha_NetflixEDA/
 
 ## 📊 EDA Output
 
-![Alt text] ("https://github.com/dinutanwar/CodeAlpha_NetflixEDA/blob/e863fd6556300a5a372559ce58b7a6c67ecf3c83/image/Screenshot%202026-05-12%20150920.png")
-
+![Alt text](https://github.com/dinutanwar/CodeAlpha_NetflixEDA/blob/158121e48a0c83e4d02b7330e7e826e629c471a6/image/Screenshot%202026-05-12%20150920.png)
+![Alt text](https://github.com/dinutanwar/CodeAlpha_NetflixEDA/blob/158121e48a0c83e4d02b7330e7e826e629c471a6/image/Screenshot%202026-05-12%20150937.png)
+![Alt text](https://github.com/dinutanwar/CodeAlpha_NetflixEDA/blob/158121e48a0c83e4d02b7330e7e826e629c471a6/image/Screenshot%202026-05-12%20150949.png)
+![Alt text](https://github.com/dinutanwar/CodeAlpha_NetflixEDA/blob/158121e48a0c83e4d02b7330e7e826e629c471a6/image/Screenshot%202026-05-12%20151004.png)
 
 ---
 
