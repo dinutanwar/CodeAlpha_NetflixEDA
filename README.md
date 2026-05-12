@@ -63,31 +63,10 @@ CodeAlpha_NetflixEDA/
 
 ---
 
-# 📸 Screenshots
-
-## 📂 Dataset Preview
-
-<!-- Add Dataset Screenshot Below -->
-
-<p align="center">
-  <img src="screenshots/dataset.png" width="850">
-</p>
-
----
-
-## 📈 Graph Visualization
-
-<!-- Add Graph Screenshot Below -->
-
-<p align="center">
-  <img src="screenshots/graphs.png" width="850">
-</p>
-
----
 
 ## 📊 EDA Output
 
-![alt text] ("https://github.com/dinutanwar/CodeAlpha_NetflixEDA/blob/e863fd6556300a5a372559ce58b7a6c67ecf3c83/image/Screenshot%202026-05-12%20150920.png")
+![Alt text] ("https://github.com/dinutanwar/CodeAlpha_NetflixEDA/blob/e863fd6556300a5a372559ce58b7a6c67ecf3c83/image/Screenshot%202026-05-12%20150920.png")
 
 
 ---
